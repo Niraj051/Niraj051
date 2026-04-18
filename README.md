@@ -15,3 +15,24 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a hreef="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a hreef="https://google.com">Detection Lab</a>|
+
+
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logo=snort&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+   
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>

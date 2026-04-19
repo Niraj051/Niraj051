@@ -13,7 +13,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a hreef="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a hreef="https://github.com/Niraj051/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a hreef="https://google.com">Detection Lab</a>|
 
 

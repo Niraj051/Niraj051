@@ -45,5 +45,22 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 <a href="https://www.metasploit.com" target="_blank">
   <img src="https://img.shields.io/badge/-Metasploit-2A5Caa?&style=for-the-badge&logo=metasploit&logoColor=white" />
 </a>
+</div>
+
+### Vulnerability Scanning
+<div>
+    <a href="https://www.tenable.com/products/nessus" target="_blank">
+  <img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logo=tenable&logoColor=white" />
+</a>
+</div>
+
+### Systems
+<div>
+    <a href="https://www.kali.org" target="_blank">
+  <img src="https://img.shields.io/badge/-Linux_(Kali,_Ubuntu)-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+</a> 
+    <a href="https://www.microsoft.com/en-us/windows-server" target="_blank">
+  <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</a>
     
 </div>

@@ -28,11 +28,22 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 ### Endpoint
 <div>
-   
+   <img src="https://img.shields.io/badge/-Microsoft_Sysmon-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Offensive Tools
+<div>
+    <a href="https://nmap.org" target="_blank">
+  <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</a>
+<a href="https://www.metasploit.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Metasploit-2A5Caa?&style=for-the-badge&logo=metasploit&logoColor=white" />
+</a>
+    
 </div>

@@ -14,7 +14,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Niraj051/Detection-Lab">Detection Lab</a>|
-| SOC AI Pipeline — Automated Alert Detection & Analysis | <a hreef="https://github.com/Niraj051/soc-ai-pipeline">Detection Lab</a>|
+| SOC AI Pipeline — Automated Alert Detection & Analysis | <a href="https://github.com/Niraj051/soc-ai-pipeline">Detection Lab</a>|
 
 
 ## Tools
